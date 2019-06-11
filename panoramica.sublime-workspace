@@ -1,0 +1,638 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bckg",
+				"background-position\tproperty"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"obje",
+				"object-position\tproperty"
+			],
+			[
+				"object",
+				"object-fit\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 8,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "index.js"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"ls",
+			"ll",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/carlo/Desktop/Projetos/panoramica"
+	],
+	"file_history":
+	[
+		"/C/Users/carlo/Desktop/Projetos/panoramica/index.html",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/lib/css/main.scss",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/functions.php",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/header-custom.php",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/src/scss/main.scss",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/.gitignore",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/.gitignore",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/src/js/main.js",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/js/skip-link-focus-fix.js",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/footer.php",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/header.php",
+		"/C/Users/carlo/Desktop/Projetos/editora/wp-content/themes/editora-positivo/home.php",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/header.php",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/functions.php",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/old_Adaptive.sublime-theme",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/src/scss/components/_contentAcessibility.scss",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/inc/extra/trimmed.php",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/src/scss/utils/_mixins.scss",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/src/javascript/components/content-acessibility.js",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/templates/content-acessibility.php",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/Adaptive.sublime-theme",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama-institucional/templates/card-noticias.php",
+		"/C/Users/carlo/.bash_profile.recovered",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/src/fonts/scss/_variables.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/src/fonts/scss/fontawesome.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/src/fonts/scss/fa-brands.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/dist/css/main.css",
+		"/C/Users/carlo/OneDrive/Projetos/Font Awesome Pro 5/fontawesome-pro-5.0.9/fontawesome-pro-5.0.9/web-fonts-with-css/scss/_variables.scss",
+		"/C/Users/carlo/OneDrive/Projetos/Font Awesome Pro 5/fontawesome-pro-5.0.9/fontawesome-pro-5.0.9/web-fonts-with-css/scss/fontawesome.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/src/css/main.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/css/main.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/js/main.js",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Monokai++/themes/Monokai++.tmTheme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/adaptive.sublime-theme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/ayu-dark.sublime-theme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/ayu.sublime-theme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/Antigua.tmTheme",
+		"/C/Program Files/Sublime Text 3/Packages/Atari ST.tmTheme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Agila Theme/Agila Neon Monocyanide.tmTheme.chback",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/Dank Neon/Dank_Neon.tmTheme",
+		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/node_modules/bootstrap/scss/bootstrap-reboot.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/node_modules/bootstrap/scss/bootstrap-grid.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/node_modules/bootstrap/scss/bootstrap.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/dist/css/main.min.css",
+		"/C/Users/carlo/Desktop/Projetos/editora/wp-content/themes/source/less/main/import.less",
+		"/C/Users/carlo/Desktop/Projetos/editora/wp-content/themes/source/less/main/main.less",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/node_modules/bootstrap/scss/_grid.scss",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp.github.io/gulp/node_modules/bootstrap/scss/_mixins.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/js/vendor/main.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/sass/theme.scss",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/css/theme.css",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/css/main.min.css",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/inc/enqueue.php",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/sass/theme/_theme.scss",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/js/all.min.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/src/sass/ejm/theme.scss",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/src/sass/ejm/_theme.scss",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/js/theme.min.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/js/main.js",
+		"/C/Users/carlo/Desktop/Projetos/lp_ejm/wp-content/themes/ejm/sass/theme/fontawesome-all.css",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/footer.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/variables.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/newsletter.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/pesquisa.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/style.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/header.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/inc/newsletter.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/sidebar.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/sidebar.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/functions.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/base.scss",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/src/javascript/pages/single.js",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/template-parts/offcanvasmenu.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/scss/offcanvasmenu.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/source/js/vendor/custom.js",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/dist/css/main.css",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/gulp/package.json",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/gulp/package-lock.json",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/dist/js/all.min.js",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/header.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/header-pesquisa.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/feito-por-alunos.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/template-parts/parallax.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/page-sucesso.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/page-sticky.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/page-onde-os-jovens-estao.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/index.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/_assets/scss/header.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/_assets/scss/pesquisa.scss",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/_assets/css/all.css",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-config.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/.gitignore",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/package.json",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/template-parts/content.php",
+		"/C/Users/carlo/Desktop/Projetos/maristalab/wp-content/themes/maristalab/front-pageee.php",
+		"/C/Users/carlo/Desktop/Projetos/codepen/smooth_scroll/index.html",
+		"/C/Users/carlo/Desktop/Projetos/codepen/smooth_scroll/style.scss",
+		"/C/Users/carlo/Desktop/Projetos/codepen/smooth_scroll/scripts.js",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/yokohama/src/scss/pages/single.scss",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/yokohama/single.php",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/yokohama/templates/content-post-navigation.php",
+		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-config.php",
+		"/C/Users/carlo/Desktop/Projetos/frontend/.gitignore",
+		"/C/Users/carlo/Desktop/Projetos/frontend/dist/css/main.css",
+		"/G/0.Projetos/1 - carloschhp/site/index.html",
+		"/C/Users/carlo/Desktop/Projetos/frontend/README.md",
+		"/C/Users/carlo/Desktop/Projetos/frontend/dist/js/all.min.js",
+		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/package-lock.json",
+		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/package.json",
+		"/G/0.Projetos/chhpfrontend/FTP/index.html",
+		"/C/Users/carlo/Desktop/Projetos/devlab/index.html",
+		"/C/Users/carlo/Desktop/Projetos/carloschhp/carloschhp.github.io/index.html",
+		"/C/Users/carlo/Desktop/Projetos/editora/wp-content/themes/editora-positivo-child-geral/page-ingles.php",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\Users\\carlo\\Desktop\\Projetos\\drogavet\\wp-content\\themes\\drogavet",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\lp_ejm\\wp-content\\themes\\ejm",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\lp_ejm\\wp-content\\themes\\ejm\\inc",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\lp_ejm\\wp-content\\themes\\ejm",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\maristalab\\wp-content\\themes\\maristalab\\source\\scss",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\maristalab\\wp-content\\themes\\maristalab\\source",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\maristalab\\wp-content\\themes\\maristalab\\gulp\\node_modules",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\maristalab\\wp-content\\themes\\maristalab\\source\\scss",
+			"C:\\Users\\carlo\\Desktop\\Projetos\\maristalab\\wp-content\\themes\\maristalab"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tickSelect",
+			"\"",
+			"return",
+			"fonts",
+			"Fonts",
+			"fonts",
+			"Fonts",
+			"src/",
+			"src",
+			"webfonts",
+			"<h4>",
+			"information__content__skills",
+			"\"img/",
+			"img/",
+			"dist",
+			"sidebar_container",
+			"250",
+			"26",
+			"255",
+			"12",
+			".container",
+			"information__content",
+			"60ff99",
+			"e660ff",
+			" ",
+			"box-shadow: 4px 4px 0px 0px #0e0e0e;",
+			"\t\t\t\ttext-decoration: none;\n\t\t\t\tcolor: #5f5f5f;",
+			"open_details",
+			"information__",
+			"ff4e79",
+			"ff688d",
+			"ff94e4",
+			"7s",
+			"#ec00ff",
+			"fc0",
+			"40px",
+			"8px",
+			"4px",
+			"8px",
+			"40px",
+			"6s",
+			"180deg",
+			"35px",
+			"3px",
+			"6px",
+			"30px",
+			"evt",
+			"contact_me",
+			".content",
+			"content",
+			"ffe200",
+			"40px",
+			".png.png",
+			"<img src=\"<?php echo get_template_directory_uri(); ?>/img/galeria-img-2.png\" alt=\"\">",
+			"item",
+			"historia_cidade_erechim",
+			"#pastoral_juvenil",
+			"main_blue",
+			"\"max-width\"",
+			"$max: \"max-width\"",
+			"$max",
+			"max-width: 400px;",
+			"alerta_ejm",
+			"#ejm",
+			"_theme.scss",
+			"scssFiles",
+			"main-header__scroll-down",
+			"Searching",
+			"main-header__scroll-down",
+			"cssDest",
+			"'node_modules",
+			"dist",
+			"paths.js",
+			"theme.min.js",
+			"80px",
+			"main-header",
+			"\"../webfonts/",
+			"h1",
+			"font-family: 'Adelle Sans';",
+			"    font-family: 'Adelle Sans';",
+			"understrap",
+			"simbolo-esquerdo",
+			"$container",
+			"#encontros_jovens",
+			"args",
+			".categories",
+			"#prima",
+			"#secondary",
+			"barbar",
+			"subscribe ",
+			".home",
+			".row-title",
+			"subscribebox",
+			"menu-overlay",
+			"openNav",
+			"opennav",
+			".subscribe select",
+			".subscribe",
+			"<li>",
+			"menutoggle",
+			"$content",
+			"@content",
+			":disabled",
+			"[type=button]:not(:disabled)",
+			"input[type=\"sea",
+			"600 15px/18px Roboto,sans-serif",
+			"menutoggle",
+			"maristaLab_translation_array",
+			"maristaLab_query_args",
+			".dropdown-menu",
+			"@keyframes fadeOut",
+			"util",
+			"uglify",
+			"docHeight",
+			"popper.js",
+			".site-header",
+			"onYouTubePlayerAPIReady",
+			"/_assets/css/images/",
+			"background-image: url(../source/images/",
+			"background-image: url(../images/",
+			"background-image: url(../dist/images/",
+			"background-image: url(../css/images/",
+			"url(../css/images/",
+			"detail-1",
+			"source/",
+			"sassdev",
+			"scssFiles",
+			"src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/source/images/",
+			"background-image: url(../../source/images/",
+			"background-image: url(../source/images/",
+			"background-image: url(../images/",
+			"background-image: url(../dist/images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "panoramica.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"moda",
+				"src\\scss\\base\\modal.scss"
+			],
+			[
+				"card",
+				"templates\\card-noticias.php"
+			],
+			[
+				"trimm",
+				"inc\\extra\\trimmed.php"
+			],
+			[
+				"mixin",
+				"src\\scss\\utils\\_mixins.scss"
+			],
+			[
+				"main",
+				"src\\css\\main.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
