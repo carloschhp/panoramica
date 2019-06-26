@@ -37,42 +37,31 @@ body {
   padding: 0;
   transform: translate(-50%, -50%);
   z-index: 0;
-  &:hover, &:active {
-  //  z-index: 999;
-    .lg-hotspot-button {
-        border-color: #ff6000 + #11174c;
-      &:after {
-        background-color: #ff6000 + #11174c;
-      }
-    }
-  }
 }
-
 .lg-hotspot-button {
-  height: 20px*2;
-  width: 20px*2;
+  height: 40px;
+  width: 40px;
   padding: 0px;
   border-radius: 100%;
   border: 1px solid white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   z-index: 999;
   animation: button-pulse 7s ease-in-out infinite;
-  &:after {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-    content: "";
-    display: block;
-    height: 24px*0.7;
-    width: 24px*0.7;
-    border-radius: 100%;
-    border: 3px solid white;
-    background-color: none;
-    transition: border-color 1s linear;
-
-  }
+}
+.lg-hotspot-button:after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  content: "";
+  display: block;
+  height: 16.8px;
+  width: 16.8px;
+  border-radius: 100%;
+  border: 3px solid white;
+  background-color: none;
+  transition: border-color 1s linear;
 }
 
 .lg-hotspot-label {
@@ -81,7 +70,7 @@ body {
   width: 16em;
   background-color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14.5px;
   line-height: 1.45em;
   z-index: -1;
@@ -94,30 +83,28 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-  h4 {
-    margin: 0;
-    padding: 0.65em 24px;
-    background-color: #555;
-    font-size: 1.1em;
-    font-weight: normal;
-    letter-spacing: 0.02em;
-    color: white;
-    border-radius: 2px 2px 0 0;
-    width: 100%;
-    text-align: center;
-  }
-  p {
-    margin: 0;
-    padding: 1.1em 24px 0 24px;
-    color: #333;
-  }
-
-  a {
-    margin-top: 10px;
-    position: relative;
-    z-index: 99999;
-  }
+}
+.lg-hotspot-label h4 {
+  margin: 0;
+  padding: 0.65em 24px;
+  background-color: #555;
+  font-size: 1.1em;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  color: white;
+  border-radius: 2px 2px 0 0;
+  width: 100%;
+  text-align: center;
+}
+.lg-hotspot-label p {
+  margin: 0;
+  padding: 1.1em 24px 0 24px;
+  color: #333;
+}
+.lg-hotspot-label a {
+  margin-top: 10px;
+  position: relative;
+  z-index: 99999;
 }
 
 .top-left .lg-hotspot-label {
