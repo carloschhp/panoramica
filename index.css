@@ -134,7 +134,12 @@ body {
     color: #FFF;
     padding: 10px 10px;
   }
+}
 
+@media (max-width: 480px) {
+  .lg-hotspot-button {
+    font-size: 10px;
+  }
 }
 
 .lg-hotspot-label {
