@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
 
 body {
   margin: 0px;
   padding: 0px;
-      background: black;
+  background: #11161b;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
 }
 
 * {
@@ -23,8 +26,8 @@ body {
   max-width: 1600px;
   position: relative;
   padding: 0;
-  width: 100%;
   border-radius: 10px;
+      box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
 }
 
 .lg-image {
@@ -41,31 +44,94 @@ body {
   padding: 0;
   transform: translate(-50%, -50%);
   z-index: 0;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 50px;
 }
 .lg-hotspot-button {
   height: 40px;
   width: 40px;
   padding: 0px;
-  border-radius: 100%;
-  border: 1px solid white;
+  border-radius: 50px;
+  border: 2px solid white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   z-index: 999;
-  animation: button-pulse 7s ease-in-out infinite;
+  animation: pulse 3s ease infinite;
+  transition: all .3s ease;
+  white-space: pre;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: transparent;
+  font-size: 15px;
+  text-transform: uppercase;
+  padding-left: 20px;
+  cursor: pointer;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
 }
+
 .lg-hotspot-button:after {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  left: 20px;
+  transform: translate(-50%, -50%) rotate(0deg);
+  animation: rotate 20s linear infinite;
   pointer-events: none;
   content: "";
   display: block;
-  height: 16.8px;
-  width: 16.8px;
+  height: 32px;
+  width: 32px;
   border-radius: 100%;
-  border: 3px solid white;
+  border: 2px dotted rgba(255, 255, 255, 0.8);
   background-color: none;
   transition: border-color 1s linear;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  transition: all .3s ease;
+  box-sizing: border-box;
+}
+
+.lg-hotspot-button:hover {
+  content: "";
+  padding-right: 20px;
+  padding-left: 20px;
+  width: auto;
+  background: rgba(255, 255, 255, 0.7);
+  color: #222222;
+  animation: none;
+  text-indent: 0px;
+}
+
+.lg-hotspot-button:hover:after {
+  background-color: #fc0;
+  border: 3px solid #fc0;
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .lg-hotspot-button {
+    height: 26px;
+    width: 26px;
+    font-size: 14px;
+  }
+
+  .lg-hotspot-button:after {
+    display: block;
+    height: 6px;
+    width: 6px;
+    left: 12px;
+  }
+
+  .lg-hotspot-button:hover {
+    content: "";
+    padding-right: 15px;
+    padding-left: 15px;
+    width: auto;
+    background: rgba(0, 0, 0, 0.7);
+    color: #FFF;
+  }
+
 }
 
 .lg-hotspot-label {
@@ -94,7 +160,6 @@ body {
   background-color: #555;
   font-size: 1.1em;
   font-weight: normal;
-  letter-spacing: 0.02em;
   color: white;
   border-radius: 2px 2px 0 0;
   width: 100%;
@@ -160,12 +225,21 @@ body {
 
 @keyframes pulse {
   0% {
-    box-shadow: 0px 0px 0px 0px rgba(255, 245, 17, 0.7);
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.7);
   }
   70% {
     box-shadow: 0px 0px 0px 20px rgba(255, 245, 17, 0);
   }
   100% {
     box-shadow: 0px 0px 0px 0px rgba(255, 245, 17, 0);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
   }
 }
