@@ -148,10 +148,18 @@ body {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 580px) {
   .lg-hotspot-button {
     font-size: 8px;
     padding: 6px 6px !important;
+    border: 1px solid white;
+  }
+}
+
+@media (max-width: 480px) {
+  .lg-hotspot-button {
+    font-size: 7px;
+    padding: 5px 5px !important;
     border: 1px solid white;
   }
 }
