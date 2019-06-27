@@ -113,8 +113,8 @@ body {
   .lg-hotspot-button {
     height: 15px;
     width: 15px;
-    font-size: 14px;
-        padding: 0px;
+    font-size: 12px;
+    padding: 8px 8px !important;
   }
 
   .lg-hotspot-button:after {
@@ -138,7 +138,9 @@ body {
 
 @media (max-width: 480px) {
   .lg-hotspot-button {
-    font-size: 10px;
+    font-size: 8px;
+    padding: 6px 6px !important;
+    border: 1px solid white;
   }
 }
 
