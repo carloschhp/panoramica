@@ -1,30 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700&display=swap);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600&display=swap');
 body {
-  margin: 0;
-  padding: 0;
   background: #11161b;
-  font-family: Lato, sans-serif;
-  font-weight: 600
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
 }
-
 ::-moz-selection {
   background: 0 0!important
 }
-
 ::selection {
   background: 0 0!important
 }
-
 ::-moz-selection {
   background: 0 0!important
 }
-
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box
 }
-
 .container {
   width: 100%;
   min-height: 100vh;
@@ -81,6 +74,7 @@ body {
   height: 40px;
   width: 40px;
   padding: 0;
+  overflow: hidden;
   -webkit-border-radius: 50px;
   border-radius: 50px;
   border: 3px solid #fff;
@@ -110,14 +104,32 @@ body {
   text-transform: uppercase;
   padding-left: 20px;
   cursor: pointer;
-  font-family: Lato, sans-serif;
-  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
   -moz-user-select: none;
   -ms-user-select: none;
   -khtml-user-select: none;
   -webkit-user-select: none;
   -webkit-touch-callout: none
   overflow:  hidden;
+}
+
+[data-item]:before {
+    content: attr(data-item);
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    color: #fff;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    background: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
 }
 
 .lg-hotspot-button:after {
@@ -132,20 +144,21 @@ body {
   pointer-events: none;
   content: "";
   display: block;
-  height: 32px;
-  width: 32px;
+  height: 30px;
+  width: 30px;
   -webkit-border-radius: 100%;
-  border-radius: 100%;
-  border: 2px dotted rgba(255, 255, 255, .8);
-  background-color: none;
+  border-radius: 50px;
+  border: 2px solid rgba(255, 255, 255, .5);
   -webkit-transition: border-color 1s linear;
   -o-transition: border-color 1s linear;
   transition: border-color 1s linear;
-  -webkit-transition: all .3s ease;
-  -o-transition: all .3s ease;
-  transition: all .3s ease;
+  -webkit-transition: all .3s linear;
+  -o-transition: all .3s linear;
+  transition: all .3s linear;
   -webkit-box-sizing: border-box;
-  box-sizing: border-box
+  box-sizing: border-box;
+  border-left-color: transparent;
+  border-right-color: transparent;
 }
 
 .lg-hotspot-button:hover {
@@ -182,6 +195,9 @@ body {
     left: 12px;
     display: none
   }
+  [data-item]:before {
+    font-size:  12px;
+  }
 /*   .lg-hotspot-button:hover {
     content: "";
     padding-right: 15px;
@@ -199,6 +215,9 @@ body {
     padding: 6px 6px!important;
     border: 1px solid #fff
   }
+  [data-item]:before {
+    font-size: 8px;
+  }
 }
 
 @media (max-width:480px) {
@@ -206,12 +225,18 @@ body {
     font-size: 7px;
     padding: 5px 5px!important
   }
+  [data-item]:before {
+    font-size:  7px;
+  }
 }
 
 @media (max-width:380px) {
   .lg-hotspot-button {
     font-size: 4px;
     padding: 4px 3px!important;
+  }
+  [data-item]:before {
+    font-size:  4px;
   }
 }
 
