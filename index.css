@@ -191,6 +191,18 @@ body {
   display: none
 }
 
+@media (max-width:1366px) {
+	.lg-image {
+    	width: 80%;
+	}
+	.main-pointsInfo {
+		left: 50%;
+		width: 80%;
+		margin: auto;
+    	transform: translate(-50%, 0%);
+	}
+}
+
 @media (max-width:768px) {
   .lg-hotspot-button {
     height: 10px;
