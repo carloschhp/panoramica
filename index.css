@@ -191,19 +191,6 @@ body {
   display: none
 }
 
-@media (min-width: 1024px) and (max-width:1366px) {
-	.lg-image {
-    		width: 80%;
-		margin: auto;
-	}
-	.main-pointsInfo {
-		left: 50%;
-		width: 80%;
-		margin: auto;
-    	transform: translate(-50%, 0%);
-	}
-}
-
 @media (max-width:768px) {
   .lg-hotspot-button {
     height: 10px;
@@ -538,6 +525,19 @@ body {
   .main-pointsInfo__mobile__open {
     display: none;
   }
+}
+
+@media (min-width: 1024px) and (max-width:1366px) {
+	.lg-image {
+    		width: 80%;
+		margin: auto;
+	}
+	.main-pointsInfo {
+		left: 50%;
+		width: 80%;
+		margin: auto;
+    	transform: translate(-50%, 0%);
+	}
 }
 
   @-webkit-keyframes button-pulse {
