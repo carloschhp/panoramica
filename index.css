@@ -191,9 +191,10 @@ body {
   display: none
 }
 
-@media (max-width:1366px) {
+@media (min-width: 1024px) and (max-width:1366px) {
 	.lg-image {
-    	width: 80%;
+    		width: 80%;
+		margin: auto;
 	}
 	.main-pointsInfo {
 		left: 50%;
