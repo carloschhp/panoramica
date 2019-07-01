@@ -353,7 +353,6 @@ body {
     background: rgba(0, 0, 0, 0.5);
     width: 100%;
     overflow: hidden;
-    // padding-top: 10px;
     -webkit-border-radius: 0px 0px 10px 10px;
             border-radius: 0px 0px 10px 10px;
   }
