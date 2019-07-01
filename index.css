@@ -36,12 +36,6 @@ body {
   align-items: center
 }
 
-@media (max-width: 990px) {
-.container {
-  height: 72vh;
-}
-}
-
 .lg-container {
   max-width: 1600px;
   position: relative;
