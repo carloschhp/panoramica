@@ -166,7 +166,7 @@ body {
 .lg-hotspot-button.destaque {
   -webkit-animation: pulseYellow 3s ease infinite;
   animation: pulseYellow 3s ease infinite;
-  border: 3px solid #ffdc00;
+  border: 1px solid #ffdc00;
 }
 
 .lg-hotspot-button.destaque:after {
