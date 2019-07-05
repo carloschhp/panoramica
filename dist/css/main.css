@@ -233,6 +233,10 @@ body {
   text-indent: 0;
 }
 
+.active .destaque {
+  color: #FFF !important;
+}
+
 .lg-hotspot-button:hover:after {
   background-color: #4bce15;
   border: 3px solid #4bce15;
@@ -543,6 +547,7 @@ body {
   background-color: #4bce15;
   border: 3px solid #4bce15;
   display: none;
+  color: #FFF !important;
 }
 
 .main-pointsInfo__close {
