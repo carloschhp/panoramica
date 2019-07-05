@@ -27,6 +27,18 @@ body {
   color: #4bce15;
 }
 
+a.point.point-11.destaque,
+a.point.point-23.destaque,
+a.point.point-26.destaque {
+    color: #4bce15 !important;
+}
+
+a.point.point-8.destaque,
+a.point.point-9.destaque,
+a.point.point-14.destaque{
+  color: #4bce15 !important;
+}
+
 .container {
   width: 100%;
   height: 100vh;
