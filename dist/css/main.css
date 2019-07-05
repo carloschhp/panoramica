@@ -24,7 +24,7 @@ body {
 }
 
 .point.destaque {
-  color: #ffe100;
+  color: #4bce15;
 }
 
 .container {
@@ -166,11 +166,11 @@ body {
 .lg-hotspot-button.destaque {
   -webkit-animation: pulseYellow 3s ease infinite;
   animation: pulseYellow 3s ease infinite;
-  border: 3px solid #ffdc00;
+  border: 3px solid #4bce15;
 }
 
 .lg-hotspot-button.destaque:after {
-  border: 3px solid rgba(255, 220, 0, 0.8);
+  border: 3px solid rgba(75, 206, 21, 0.8);
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border-left-color: transparent;
@@ -182,11 +182,12 @@ body {
 }
 
 .lg-hotspot-button.destaque:hover {
-  background: rgba(255, 225, 0, 0.9);
+  background: rgba(75, 206, 21, 0.9);
 }
 
 .lg-hotspot-button.destaque .active .lg-hotspot-button {
-  background: rgba(255, 225, 0, 0.9) !important;
+  background: rgba(75, 206, 21, 0.9) !important;
+  color: #FFF !important;
 }
 
 [data-item]:before {
@@ -233,8 +234,8 @@ body {
 }
 
 .lg-hotspot-button:hover:after {
-  background-color: #fc0;
-  border: 3px solid #fc0;
+  background-color: #4bce15;
+  border: 3px solid #4bce15;
   display: none;
 }
 
@@ -535,12 +536,12 @@ body {
 }
 
 .active .lg-hotspot-button.destaque {
-  background-color: rgba(255, 225, 0, 0.9);
+  background-color: rgba(75, 206, 21, 0.9);
 }
 
 .active .lg-hotspot-button:after {
-  background-color: #fc0;
-  border: 3px solid #fc0;
+  background-color: #4bce15;
+  border: 3px solid #4bce15;
   display: none;
 }
 
@@ -565,7 +566,7 @@ body {
 
 .main-pointsInfo__mobile__open {
   text-decoration: none;
-  color: #fc0;
+  color: #4bce15;
   font-size: 12px;
   position: absolute;
   bottom: 5px;
@@ -671,8 +672,8 @@ transform: translate(-50%, 0%);
 
 @-webkit-keyframes pulseYellow {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 220, 0, 0.6);
-    box-shadow: 0 0 0 0 rgba(255, 255, 0, 0.6);
+    -webkit-box-shadow: 0 0 0 0 rgba(75, 206, 21, 0.6);
+    box-shadow: 0 0 0 0 rgba(75, 206, 21, 0.6);
   }
   70% {
     -webkit-box-shadow: 0 0 0 15px rgba(255, 245, 17, 0);
