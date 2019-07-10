@@ -30,6 +30,7 @@ body {
   position: absolute;
   right: 10px;
   top: 10px;
+  z-index: 99;
 }
 
 .actions .button {
@@ -37,24 +38,24 @@ body {
   display: block;
   width: 100%;
   max-width: 110px;
-  background-color: #018a52;
+  background-color: #00ac65;
   color: #FFF;
   padding: 5px 10px;
   -webkit-border-radius: 10px;
   border-radius: 10px;
-  -webkit-transition: all .3s ease;
-  -o-transition: all .3s ease;
-  transition: all .3s ease;
+  -webkit-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
   font-size: 16px;
 }
 
 .actions .button:hover {
-  background-color: #015734;
+  background-color: #007947;
 }
 
 .actions .button:active {
-  -webkit-box-shadow: 0px 0px 0px 3px #015734;
-  box-shadow: 0px 0px 0px 3px #015734;
+  -webkit-box-shadow: 0px 0px 0px 3px #007947;
+  box-shadow: 0px 0px 0px 3px #007947;
 }
 
 .point {
@@ -92,19 +93,22 @@ body {
   -webkit-border-radius: 10px;
   border-radius: 10px;
   left: -10px;
+  background-color: #FFF;
   -webkit-transition: all .2s ease;
   -o-transition: all .2s ease;
   transition: all .2s ease;
   cursor: pointer;
+  padding: 10px 10px 6px 18px;
+  -webkit-border-radius: 0px 0px 15px 0px;
+  border-radius: 0px 0px 15px 0px;
+  -webkit-box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
 }
 
 .mainLogo img {
   width: 100%;
   max-width: 250px;
-  -webkit-border-radius: 0px 0px 15px 0px;
-  border-radius: 0px 0px 15px 0px;
-  -webkit-box-shadow: 4px 4px 14px -4px rgba(0, 0, 0, 0.4);
-  box-shadow: 4px 4px 14px -4px rgba(0, 0, 0, 0.4);
 }
 
 @media (max-width: 768px) {
@@ -232,10 +236,7 @@ body {
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
   -moz-user-select: none;
-  -ms-user-select: none;
   -khtml-user-select: none;
-  -webkit-user-select: none;
-  -webkit-touch-callout: none;
   overflow: hidden;
 }
 
@@ -406,13 +407,13 @@ body {
   pointer-events: none;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  -webkit-user-select: none;
   -moz-user-select: none;
+  -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
   display: none;
-  -webkit-transition: all .1s linear;
   -o-transition: all .1s linear;
+  -webkit-transition: all .1s linear;
   transition: all .1s linear;
   display: -webkit-box;
   display: -webkit-flex;
@@ -541,19 +542,30 @@ body {
   list-style: none;
 }
 
+@media (min-height: 800px) {
+  .main-pointsInfo ul {
+    padding: 10px 0px;
+  }
+}
+
 .main-pointsInfo ul li {
   -webkit-flex-basis: 19%;
   -ms-flex-preferred-size: 19%;
   flex-basis: 19%;
   height: 14px !important;
-  padding: 0px 0px 23px 0px;
-  margin: 0px 3px 0px 3px;
+  padding: 0px 0px 20px 0px;
   display: flow-root;
 }
 
 @media (min-width: 1440px) {
   .main-pointsInfo ul li {
     height: 30px !important;
+  }
+}
+
+@media (min-height: 800px) {
+  .main-pointsInfo ul li {
+    height: 26px !important;
   }
 }
 
@@ -616,8 +628,8 @@ body {
   text-decoration: none;
   color: #FFFFFF;
   font-size: 10px;
-  -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   padding: 4px 10px;
   display: inline-block;
@@ -659,11 +671,20 @@ body {
 .main-pointsInfo__close {
   text-decoration: none;
   color: #FFF;
-  font-size: 14px;
+  cursor: pointer;
+  font-size: 20px;
   position: absolute;
   top: 6px;
   right: 8px;
   font-weight: bold;
+  letter-spacing: -1px;
+  -webkit-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+}
+
+.main-pointsInfo__close:hover {
+  color: #00f051;
 }
 
 .main-pointsInfo__mobile__close {
@@ -703,21 +724,27 @@ margin: auto;
 transform: translate(-50%, 0%);
 }
 } */
+@media (max-width: 1366px) {
+  .main-pointsInfo__mobile ul {
+    padding: 35px 20px 0px 20px;
+  }
+}
+
 @media (max-height: 900px) {
   .lg-container {
     max-width: 1200px;
   }
 }
 
-@media (max-height: 775px) {
+@media (max-height: 850px) {
   .lg-container {
-    max-width: 980px;
+    max-width: 1050px;
   }
 }
 
-@media (max-width: 1366px) {
-  .main-pointsInfo__mobile ul {
-    padding: 35px 20px 0px 20px;
+@media (max-height: 775px) {
+  .lg-container {
+    max-width: 980px;
   }
 }
 
