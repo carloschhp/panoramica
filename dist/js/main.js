@@ -12,7 +12,7 @@ jQuery(document).ready(function() {
     $('.main-pointsInfo .point-28').addClass('active');
   });
   $('.lg-container .point-28').on('mouseout', function(){
-    $('.main-pointsInfo .point-28').addClass('active');
+    $('.main-pointsInfo .point-28').removeClass('active');
   });
 
   $('.main-pointsInfo .point-20').on('mouseover', function(){
@@ -26,7 +26,7 @@ jQuery(document).ready(function() {
     $('.main-pointsInfo .point-20').addClass('active');
   });
   $('.lg-container .point-20').on('mouseout', function(){
-    $('.main-pointsInfo .point-20').addClass('active');
+    $('.main-pointsInfo .point-20').removeClass('active');
   });
 
 });
