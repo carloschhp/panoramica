@@ -8,11 +8,25 @@ jQuery(document).ready(function() {
     $('.lg-container .point-28').removeClass('active');
   });
 
+  $('.lg-container .point-28').on('mouseover', function(){
+    $('.main-pointsInfo .point-28').addClass('active');
+  });
+  $('.lg-container .point-28').on('mouseout', function(){
+    $('.main-pointsInfo .point-28').addClass('active');
+  });
+
   $('.main-pointsInfo .point-20').on('mouseover', function(){
     $('.lg-container .point-20').addClass('active');
   });
-
   $('.main-pointsInfo .point-20').on('mouseout', function(){
     $('.lg-container .point-20').removeClass('active');
   });
+
+  $('.lg-container .point-20').on('mouseover', function(){
+    $('.main-pointsInfo .point-20').addClass('active');
+  });
+  $('.lg-container .point-20').on('mouseout', function(){
+    $('.main-pointsInfo .point-20').addClass('active');
+  });
+
 });
