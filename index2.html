@@ -12,6 +12,15 @@
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="dist/js/main.js"></script>
     <link rel="stylesheet" href="dist/css/main.min.css">
+    
+    <script>
+    $('.main-pointsInfo .point-20').on('mouseover', function(){
+	$('.lg-container .point-20').addClass('active');
+    });
+    $('.main-pointsInfo .point-20').on('mouseout', function(){
+        $('.lg-container .point-20').removeClass('active');
+    });    
+    </script>
 </head>
 <body>
 
