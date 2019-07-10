@@ -1,5 +1,5 @@
 jQuery(document).ready(function ($) {
-	$(".lg-hotspot").each(function (index) {
+	$(".lg-hotspot-button").each(function (index) {
 		$(".point-" + index).mouseenter(function () {
 			$(".point-" + index).addClass('active');
 		});
