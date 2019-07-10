@@ -7,3 +7,6 @@
 .lg-hotspot.active .lg-hotspot-button:after {
   opacity: 0;
 }
+.mainLogo {
+  background-color: #f7f7f7 !important;
+}
