@@ -1,0 +1,58 @@
+{
+  "name": "MaristaLab",
+  "version": "1.0.0",
+  "description": "Marista Lab",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^1.12.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^5.0.0",
+    "imagesloaded": "^4.1.4",
+    "jquery-mask-plugin": "^1.14.15",
+    "jquery-validation": "^1.19.0",
+    "lg-autoplay": "^1.0.4",
+    "lg-fullscreen": "^1.0.1",
+    "lg-hash": "^1.0.4",
+    "lg-pager": "^1.0.2",
+    "lg-share": "^1.1.0",
+    "lg-thumbnail": "^1.1.0",
+    "lg-video": "^1.2.2",
+    "lg-zoom": "^1.1.0",
+    "lightgallery": "^1.6.11",
+    "lightslider": "^1.1.6",
+    "masonry-layout": "^4.2.1",
+    "object-fit-images": "^3.2.3",
+    "owl.carousel": "^2.3.4",
+    "paroller.js": "^1.2.0",
+    "popper": "^1.0.1",
+    "popper.js": "^1.15.0",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "jquery": "^3.4.0",
+    "jquery-match-height": "^0.7.2",
+    "owl.carousel": "^2.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Marista Lab"
+  ],
+  "author": "Páprica",
+  "license": "ISC"
+}

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
 				"mouse",
 				"mouseenter\t.mouseenter()"
 			],
@@ -75,37 +79,46 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10366,
+				"buffer_size": 12461,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.js",
+			"file": "js/index.js",
 			"settings":
 			{
-				"buffer_size": 1242,
+				"buffer_size": 1249,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "index.js"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.css",
+			"file": "css/index.scss",
 			"settings":
 			{
-				"buffer_size": 14792,
+				"buffer_size": 12910,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "index.css"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<div class=\"main-pointsInfo\">\n    <ul>\n        <li><a href=\"\">1 - Recepção</a></li>\n        <li><a href=\"\">2 - Acesso</a></li>\n        <li><a href=\"\">3 - Quadra Externa</a></li>\n        <li><a href=\"\">4 - Campo de Futebol</a></li>\n        <li><a href=\"\">5 - Piscina</a></li>\n        <li><a href=\"\">6 - Laboratório</a></li>\n        <li><a href=\"\">7 - Biblioteca</a></li>\n        <li><a href=\"\">8 - Salas de aula</a></li>\n        <li><a href=\"\">9 - Dança</a></li>\n        <li><a href=\"\">10 - Quadras Externas</a></li>\n        <li><a href=\"\">11 - Esporte Internacional</a></li>\n        <li><a href=\"\">12 - Trilha</a></li>\n        <li><a href=\"\">13 - Salas Especiais</a></li>\n        <li><a href=\"\">14 - Pátio</a></li>\n        <li><a href=\"\">15 - Administração</a></li>\n        <li><a href=\"\">16 - Quadras Cobertas</a></li>\n        <li><a href=\"\">17 - Refeitório</a></li>\n        <li><a href=\"\">18 - Quadras Externas</a></li>\n        <li><a href=\"\">19 - Quadra Coberta</a></li>\n        <li><a href=\"\">20 - Refeitório</a></li>\n        <li><a href=\"\">21 - Salas Especiais</a></li>\n        <li><a href=\"\">22 - Sala de Aula</a></li>\n        <li><a href=\"\">23 - Playground</a></li>\n        <li><a href=\"\">24 - Altar</a></li>\n        <li><a href=\"\">25 - Mini Cidade</a></li>\n    </ul>\n</div>",
+			"file": "index2.html",
 			"settings":
 			{
-				"buffer_size": 1281,
-				"line_ending": "Windows"
+				"buffer_size": 9210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1772,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "gulpfile.js"
 			}
 		}
 	],
@@ -188,10 +201,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/carlo/Desktop/Projetos/panoramica"
+		"/C/Users/carlo/Desktop/Projetos/panoramica",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/css",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/dist",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/js"
 	],
 	"file_history":
 	[
+		"/C/Users/carlo/Desktop/Projetos/panoramica/css/index.scss",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/package.json",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/package-lock.json",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/gulp/package.json",
+		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/gulp/gulpfile.js",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/index.js",
+		"/C/Users/carlo/Desktop/Projetos/panoramica/index.css",
 		"/C/Users/carlo/Desktop/Projetos/panoramica/index2.html",
 		"/C/Users/carlo/Desktop/Projetos/panoramica/index.html",
 		"/C/Users/carlo/AppData/Roaming/Sublime Text 3/Packages/old_Monokai++/themes/Monokai++.tmTheme",
@@ -203,7 +226,6 @@
 		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/header-custom.php",
 		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/src/scss/main.scss",
 		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-content/themes/yokohama/.gitignore",
-		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/gulp/gulpfile.js",
 		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/.gitignore",
 		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/area-exclusiva/src/js/main.js",
 		"/C/Users/carlo/Desktop/Projetos/drogavet/wp-content/themes/drogavet/js/skip-link-focus-fix.js",
@@ -313,17 +335,11 @@
 		"/C/Users/carlo/Desktop/Projetos/yokohama/wp-config.php",
 		"/C/Users/carlo/Desktop/Projetos/frontend/.gitignore",
 		"/C/Users/carlo/Desktop/Projetos/frontend/dist/css/main.css",
-		"/G/0.Projetos/1 - carloschhp/site/index.html",
-		"/C/Users/carlo/Desktop/Projetos/frontend/README.md",
-		"/C/Users/carlo/Desktop/Projetos/frontend/dist/js/all.min.js",
-		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/gulpfile.js",
-		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/package-lock.json",
-		"/C/Users/carlo/Desktop/Projetos/frontend/gulp/package.json",
-		"/G/0.Projetos/chhpfrontend/FTP/index.html"
+		"/G/0.Projetos/1 - carloschhp/site/index.html"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -346,134 +362,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"fadeOut",
-			"main-pointsInfo__mobile ",
-			"pointsInfo",
-			"pointsInfo ul li\");\n\tvar mobile_boxInfoLi = $(\".main-pointsInfo",
+			"00ac65",
+			"018a52",
+			".lg-container",
+			"-webkit-",
+			"-ms-",
+			"-ms-transform: trans",
+			"-webkit-transform: translate",
+			"-webkit-box-shadow",
+			"-webkit-box",
+			"-webkit",
+			"@import url('https://fonts.googleapis.com/css?family=Open+Sans:600&display=swap');\n\nbody {\nbackground: #11161b;\npadding: 0;\nmargin: 0;\nfont-family: 'Open Sans', sans-serif;\nbackground: linear-gradient(-30deg, #000, #006137);\n\n}\n\n::-moz-selection {\nbackground: 0 0!important\n}\n::selection {\nbackground: 0 0!important\n}\n::-moz-selection {\nbackground: 0 0!important\n}\n* {\nbox-sizing: border-box\n}\n\n// ##############################\n// ##############################\n// ##############################\n\n.actions {\nposition: absolute;\nright: 10px;\ntop: 10px;\n\n.button {\ntext-decoration: none;\ndisplay: block;\nwidth: 100%;\nmax-width: 110px;\nbackground-color: #018a52;\ncolor: #FFF;\npadding: 5px 10px;\nborder-radius: 10px;\ntransition: all .3s ease;\nfont-size: 16px;\n\n&:hover {\nbackground-color: darken(#018a52, 10%);\n}\n\n&:active {\nbox-shadow: 0px 0px 0px 3px darken(#018a52, 10%);\n}\n}\n}\n\n.point {\nposition: relative;\nwill-change: transform;\n\nspan {\nwidth: 14px;\ndisplay: inline-block;\ntext-align: right;\n}\n\n\n&.destaque {\nspan {\n&:after {\nbackground-color: rgba(#00f051, 1);\n}\n}\n}\n\n&:hover, &.active {\ntransform: scale(1.4) translateX(10px);\n}\n}\n\n.main-pointsInfo {\n.destaque {\ncolor: rgba(#00f051, 1);\n}\n}\n\n.mainLogo {\nwill-change: scroll-position;\nposition: absolute;\ntop: 0px;\nwidth: 250px;\nheight: auto;\nz-index: 9;\nborder-radius: 10px;\nleft: -10px;\nbackground-color: #FFF;\ntransition: all .2s ease;\ncursor: pointer;\npadding: 10px 10px 6px 18px;\nborder-radius: 0px 0px 15px 0px;\nbox-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.3);\noverflow: hidden;\n\nimg {\nwidth: 100%;\nmax-width: 250px;\n\n@media (max-width: 768px) {\nmax-width: 40vw;\n}\n\n@media (max-width: 480px) {\nmax-width: 50vw;\n}\n}\n\n&:hover {\nleft: -5px;\n}\n}\n\n.lg-hotspot {\n&.active {\ncolor: rgba(#00f051, 1);\n\n.destaque {\ncolor: #FFF;\n}\n}\n}\n\n// ##############################\n// ##############################\n// ##############################\n\n.container {\nwidth: 100%;\nheight: 100vh;\npadding: 1em;\ndisplay: flex;\njustify-content: center;\nalign-items: center\n}\n\n.lg-container {\nmax-width: 1600px;\nposition: relative;\npadding: 0;\nborder-radius: 10px;\nbox-shadow: 0 0 30px 0 rgba(0, 0, 0, .2);\n\n@media (max-height: 650px) {\nmax-width: 850px !important;\n}\n\n@media (max-height: 590px) {\nmax-width: 750px !important;\n}\n}\n\n.lg-image {\ndisplay: block;\nheight: 100%;\nwidth: 100%;\nobject-fit: scale-down;\nborder-radius: 10px\n}\n\n.lg-hotspot {\nposition: absolute;\nmargin: 0;\npadding: 0;\ntransform: translate(-50%, -50%);\nz-index: 0;\nbox-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);\nborder-radius: 50px\n}\n\n.lg-hotspot-button {\nwill-change: transform;\nheight: 40px;\nwidth: 40px;\npadding: 0;\noverflow: hidden;\nborder-radius: 50px;\nborder: 3px solid #fff;\nbox-shadow: 0 2px 4px rgba(0, 0, 0, .2);\nz-index: 999;\nanimation: pulse 3s ease infinite;\ntransition: all .3s ease;\nwhite-space: pre;\ndisplay: flex;\nalign-items: center;\njustify-content: center;\ncolor: transparent;\nfont-size: 15px;\ntext-transform: uppercase;\npadding-left: 20px;\ncursor: pointer;\nfont-family: 'Open Sans', sans-serif;\n-moz-user-select: none;\n-ms-user-select: none;\n-khtml-user-select: none;\n-webkit-user-select: none;\n-webkit-touch-callout: none;\noverflow:  hidden;\n\n&:after {\nwill-change: transform;\nposition: absolute;\ntop: 50%;\nleft: 17px;\ntransform: translate(-50%, -50%) rotate(0);\n// animation: rotate 15s linear infinite;\npointer-events: none;\ncontent: \"\";\ndisplay: block;\nheight: 32px;\nwidth: 32px;\nborder-radius: 50px;\nborder: 2px solid rgba(255, 255, 255, .5);\ntransition: border-color 1s linear;\ntransition: all .3s linear;\nbox-sizing: border-box;\nborder-left-color: transparent;\nborder-right-color: transparent;\n}\n\n&.destaque {\nwill-change: transform;\nanimation: pulseGreen 3s ease infinite;\nborder: 3px solid #0ed14f;\n\n&:after {\nborder: 2px solid #1be85f;\nbox-sizing: border-box;\nborder-left-color: transparent;\nborder-right-color: transparent;\n}\n\n&:before {\nbackground: rgba(0, 0, 0, 0.5);\n}\n\n&:hover {\nbackground: rgba(rgb(0, 181, 60), 0.9);\ncolor: #FFF;\nborder: none;\n}\n\n.active .lg-hotspot-button {\nbackground: (#00f051, 0.9) !important;\ncolor: #FFF !important;\n}\n}\n}\n\n[data-item]:before {\ncontent: attr(data-item);\ndisplay: block;\nposition: absolute;\ntop: 50%;\nleft: 50%;\nfont-size: 15px;\ncolor: #fff;\n-webkit-transform: translate(-50%, -50%);\n-ms-transform: translate(-50%, -50%);\ntransform: translate(-50%, -50%);\nz-index: -1;\nbackground: rgba(0, 0, 0, 0.5);\nwidth: 100%;\nheight: 100%;\ndisplay: -webkit-box;\ndisplay: -webkit-flex;\ndisplay: -ms-flexbox;\ndisplay: flex;\n-webkit-box-align: center;\n-webkit-align-items: center;\n-ms-flex-align: center;\nalign-items: center;\n-webkit-box-pack: center;\n-webkit-justify-content: center;\n-ms-flex-pack: center;\njustify-content: center;\n-webkit-border-radius: 40px;\nborder-radius: 40px;\n}\n\n.lg-hotspot-button:hover {\ncontent: \"\";\npadding-right: 20px;\npadding-left: 20px;\nwidth: auto;\nbackground: rgba(255, 255, 255, 1);\ncolor: #222;\n-webkit-animation: none;\nanimation: none;\ntext-indent: 0;\n}\n\n@media (max-width:768px) {\n.lg-hotspot-button {\nheight: 10px;\nwidth: 10px;\nfont-size: 12px;\npadding: 8px 8px!important;\nanimation: pulseMob 2.5s ease infinite;\n}\n.lg-hotspot-button:after {\ndisplay: block;\nheight: 10px;\nwidth: 10px;\nleft: 12px;\ndisplay: none\n}\n[data-item]:before {\nfont-size:  12px;\n}\n}\n\n@media (max-width:580px) {\n.lg-hotspot-button {\nfont-size: 8px;\npadding: 6px 6px!important;\nborder: 1px solid #fff\n}\n[data-item]:before {\nfont-size: 8px;\n}\n}\n\n@media (max-width:480px) {\n.lg-hotspot-button {\nfont-size: 7px;\npadding: 5px 5px!important\n}\n[data-item]:before {\nfont-size:  7px;\n}\n}\n\n@media (max-width:380px) {\n.lg-hotspot-button {\nfont-size: 4px;\npadding: 4px 3px!important;\n}\n[data-item]:before {\nfont-size:  4px;\n}\n}\n\n.lg-hotspot-label {\nposition: absolute;\npadding: 0 0 1.1em 0;\nwidth: 16em;\nbackground-color: #fff;\n-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .2);\nbox-shadow: 0 2px 4px rgba(0, 0, 0, .2);\nfont-family: \"Open Sans\", sans-serif;\nfont-size: 14.5px;\nline-height: 1.45em;\nz-index: -1;\npointer-events: none;\n-webkit-border-radius: 2px;\nborder-radius: 2px;\n-webkit-user-select: none;\n-moz-user-select: none;\n-ms-user-select: none;\nuser-select: none;\ndisplay: none;\n-webkit-transition: all .1s linear;\n-o-transition: all .1s linear;\ntransition: all .1s linear;\ndisplay: -webkit-box;\ndisplay: -webkit-flex;\ndisplay: -ms-flexbox;\ndisplay: flex;\n-webkit-box-orient: vertical;\n-webkit-box-direction: normal;\n-webkit-flex-direction: column;\n-ms-flex-direction: column;\nflex-direction: column;\n-webkit-box-pack: center;\n-webkit-justify-content: center;\n-ms-flex-pack: center;\njustify-content: center;\n-webkit-box-align: center;\n-webkit-align-items: center;\n-ms-flex-align: center;\nalign-items: center\n}\n\n.lg-hotspot-label h4 {\nmargin: 0;\npadding: .65em 24px;\nbackground-color: #555;\nfont-size: 1.1em;\nfont-weight: 400;\ncolor: #fff;\n-webkit-border-radius: 2px 2px 0 0;\nborder-radius: 2px 2px 0 0;\nwidth: 100%;\ntext-align: center\n}\n\n.lg-hotspot-label p {\nmargin: 0;\npadding: 1.1em 24px 0 24px;\ncolor: #333\n}\n\n.lg-hotspot-label a {\nmargin-top: 10px;\nposition: relative;\nz-index: 99999\n}\n\n.top-left .lg-hotspot-label {\ntop: 24px;\nright: auto;\nbottom: auto;\nleft: 24px\n}\n\n.top-right .lg-hotspot-label {\ntop: 24px;\nright: 24px;\nbottom: auto;\nleft: auto\n}\n\n.bottom-right .lg-hotspot-label {\ntop: auto;\nright: 24px;\nbottom: 24px;\nleft: auto\n}\n\n.bottom-left .lg-hotspot-label {\ntop: auto;\nright: auto;\nbottom: 24px;\nleft: 24px\n}\n\n.main-pointsInfo {\nposition: fixed;\nbottom: 0px;\nleft: 0px;\nbackground: rgb(0,0,0);\nbackground: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 100%);\n\n\nwidth: 100%;\noverflow: hidden;\n}\n\n.main-pointsInfo__mobile {\nposition: absolute;\nbottom: 0px;\nleft: 0px;\nbackground: rgba(0, 0, 0, 0.5);\nwidth: 100%;\noverflow: hidden;\npadding-top: 10px;\n-webkit-border-radius: 0px 0px 10px 10px;\nborder-radius: 0px 0px 10px 10px;\ndisplay: none;\nheight: 20vh;\n}\n\n@media (max-width: 990px) {\n.main-pointsInfo {\ndisplay: none;\n}\n.main-pointsInfo__mobile {\ndisplay: block\n}\n}\n\n\n.main-pointsInfo ul {\ndisplay: flex;\nalign-items: center;\njustify-content: center;\nflex-wrap: wrap;\nlist-style: none;\n\n@media (min-height: 800px) {\npadding: 10px 0px;\n}\n\n\nli {\nflex-basis: 19%;\nheight: 14px !important;\npadding: 0px 0px 20px 0px;\ndisplay: flow-root;\n\n@media (min-width: 1440px) {\nheight: 30px !important;\n}\n@media (min-height: 800px) {\nheight: 26px !important;\n}\n}\n}\n\n.main-pointsInfo ul li a {\ntext-decoration: none;\ncolor: #FFFFFF;\nfont-size: 12px;\nline-height: 13px;\ntransition: all 0.3s ease;\npadding: 0px;\ndisplay: inline-block;\n}\n\n.main-pointsInfo__mobile ul {\ndisplay: flex;\nalign-items: flex-start;\njustify-content: flex-start;\nlist-style: none;\nflex-direction: column;\nheight: 20vh;\noverflow-y: scroll;\npadding: 20px 20px 60px 20px;\nposition: absolute;\nbottom: 0px;\nwidth: 100%;\n}\n\n.main-pointsInfo__mobile ul li {\nflex-basis: 20%;\n\n@media (max-width: 590px) {\nmax-height: 13px;\n}\n}\n\n.active {\nz-index: 9999999;\n}\n.main-pointsInfo__mobile ul li a {\ntext-decoration: none;\ncolor: #FFFFFF;\nfont-size: 10px;\n-webkit-transition: all 0.3s ease;\n-o-transition: all 0.3s ease;\ntransition: all 0.3s ease;\npadding: 4px 10px;\ndisplay: inline-block;\n\n@media (max-width: 590px) {\nfont-size: 6px;\npadding: 2px 5px;\n}\n}\n\n.main-pointsInfo__mobile ul li a.active {\ncolor: #000000;\nbackground: white;\n-webkit-border-radius: 30px;\nborder-radius: 30px;\n}\n\n.active .lg-hotspot-button {\ncontent: \"\";\npadding-right: 20px;\npadding-left: 20px;\nwidth: auto;\nbackground: rgba(255, 255, 255, .9);\ncolor: #222;\n-webkit-animation: none;\nanimation: none;\ntext-indent: 0;\n\n&.destaque {\n// background-color: rgba(#00f051, .9);\n}\n}\n\n.active .lg-hotspot-button:after {\nbackground-color: #00f051;\nborder: 3px solid #00f051;\ndisplay: none;\ncolor: #FFF !important;\n}\n\n.main-pointsInfo__close {\ntext-decoration: none;\ncolor: #FFF;\nfont-size: 20px;\nposition: absolute;\ntop: 6px;\nright: 8px;\nfont-weight: bold;\nletter-spacing: -1px;\n}\n\n.main-pointsInfo__mobile__close {\ntext-decoration: none;\ncolor: #FFF;\nfont-size: 12px;\nposition: absolute;\ntop: 6px;\nright: 8px;\nz-index: 9999;\n}\n\n.main-pointsInfo__mobile__open {\ntext-decoration: none;\ncolor: #00f051;\nfont-size: 12px;\nposition: absolute;\nbottom: 5px;\nright: 8px;\n}\n\n@media (min-width: 990px) {\n.main-pointsInfo__mobile__open {\ndisplay: none;\n}\n}\n\n/* @media (min-width: 1024px) and (max-width:1366px) {\n.lg-image {\nwidth: 80%;\nmargin: auto;\n}\n.main-pointsInfo {\nleft: 50%;\nwidth: 80%;\nmargin: auto;\ntransform: translate(-50%, 0%);\n}\n} */\n\n@media (max-height:900px) {\n.lg-container {\nmax-width: 1200px;\n}\n}\n\n@media (max-height:775px) {\n.lg-container {\nmax-width: 980px;\n}\n}\n\n@media (max-width: 1366px) {\n.main-pointsInfo__mobile ul {\npadding: 35px 20px 0px 20px;\n}\n}\n\n@-webkit-keyframes button-pulse {\n0% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n30% {\n-webkit-transform: scale(1.1, 1.1);\ntransform: scale(1.1, 1.1);\nopacity: 1\n}\n60% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n100% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n}\n\n@keyframes button-pulse {\n0% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n30% {\n-webkit-transform: scale(1.1, 1.1);\ntransform: scale(1.1, 1.1);\nopacity: 1\n}\n60% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n100% {\n-webkit-transform: scale(1, 1);\ntransform: scale(1, 1);\nopacity: 1\n}\n}\n\n@-webkit-keyframes pulse {\n0% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, .6);\nbox-shadow: 0 0 0 0 rgba(255, 255, 255, .6)\n}\n70% {\n-webkit-box-shadow: 0 0 0 15px rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 15px rgba(255, 245, 17, 0)\n}\n100% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 0 rgba(255, 245, 17, 0)\n}\n}\n\n@-webkit-keyframes pulseGreen {\n0% {\n-webkit-box-shadow: 0 0 0 0 rgba(#00f051, .6);\nbox-shadow: 0 0 0 0 rgba(#00f051, .6)\n}\n70% {\n-webkit-box-shadow: 0 0 0 15px rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 15px rgba(255, 245, 17, 0)\n}\n100% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 0 rgba(255, 245, 17, 0)\n}\n}\n\n@keyframes pulse {\n0% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, .6);\nbox-shadow: 0 0 0 0 rgba(255, 255, 255, .6)\n}\n70% {\n-webkit-box-shadow: 0 0 0 15px rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 15px rgba(255, 245, 17, 0)\n}\n100% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 0 rgba(255, 245, 17, 0)\n}\n}\n\n@-webkit-keyframes pulseMob {\n0% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, .5);\nbox-shadow: 0 0 0 0 rgba(255, 255, 255, .5)\n}\n70% {\n-webkit-box-shadow: 0 0 0 6px rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 6px rgba(255, 245, 17, 0)\n}\n100% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 0 rgba(255, 245, 17, 0)\n}\n}\n\n@keyframes pulseMob {\n0% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, .5);\nbox-shadow: 0 0 0 0 rgba(255, 255, 255, .5)\n}\n70% {\n-webkit-box-shadow: 0 0 0 6px rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 6px rgba(255, 245, 17, 0)\n}\n100% {\n-webkit-box-shadow: 0 0 0 0 rgba(255, 245, 17, 0);\nbox-shadow: 0 0 0 0 rgba(255, 245, 17, 0)\n}\n}\n\n@-webkit-keyframes rotate {\n0% {\n-webkit-transform: translate(-50%, -50%) rotate(0);\ntransform: translate(-50%, -50%) rotate(0)\n}\n100% {\n-webkit-transform: translate(-50%, -50%) rotate(360deg);\ntransform: translate(-50%, -50%) rotate(360deg)\n}\n}\n\n@keyframes rotate {\n0% {\n-webkit-transform: translate(-50%, -50%) rotate(0);\ntransform: translate(-50%, -50%) rotate(0)\n}\n100% {\n-webkit-transform: translate(-50%, -50%) rotate(360deg);\ntransform: translate(-50%, -50%) rotate(360deg)\n}\n}\n\n",
+			".main-pointsInfo ul",
+			"pulseYellow",
+			".lg-hotspot-button {",
+			".active",
+			"00bf40",
+			"#4bce15",
 			".main-pointsInfo",
-			"point-\" + index",
-			"<a href=\"\"",
-			"point-1",
-			"this",
-			"});\n",
-			"this",
-			"count",
-			"index",
-			"indexTotal",
-			"index",
-			"indexTotal",
-			"index",
-			"indexTottal",
-			" .lg-hotspot-butt",
-			"<li><a href=\"\"><span",
-			"<li><a href=\"\"><span>",
-			"<li><a href=\"\">",
-			"50px",
-			"28px",
+			"10px",
+			"8px",
+			"animation: rotate",
+			"will-change",
+			"200px",
 			"30px",
-			"32px",
-			"2s",
-			"ease",
-			"rotate 20s",
-			".3s",
-			"1s",
-			"255",
-			"font-family: 'Fira Sans Extra Condensed', sans-serif;",
-			"font-family: 'Oxygen', sans-serif;",
-			"font-weight: 600",
-			"font-family: 'Oxygen', sans-serif;",
-			"font-family: 'Pacifico', cursive;",
-			"font-family: Lato, sans-serif;",
-			"60",
-			"lg-hotspot top-left\">",
-			"hotspots-label",
-			"245, 0",
-			"255, 0",
-			"0, 0, 0, 0",
-			"255",
-			"hotspots-label ",
-			"hotspots-label",
-			"hover",
-			"rgba(255, 0, 0, 0);",
-			"0",
-			"Teste hotspot",
-			".hotspot:before",
-			"'",
-			"50px",
-			"tickSelect",
-			"\"",
-			"return",
-			"fonts",
-			"Fonts",
-			"fonts",
-			"Fonts",
-			"src/",
-			"src",
-			"webfonts",
-			"<h4>",
-			"information__content__skills",
-			"\"img/",
-			"img/",
-			"dist",
-			"sidebar_container",
-			"250",
-			"26",
-			"255",
-			"12",
-			".container",
-			"information__content",
-			"60ff99",
-			"e660ff",
-			" ",
-			"box-shadow: 4px 4px 0px 0px #0e0e0e;",
-			"\t\t\t\ttext-decoration: none;\n\t\t\t\tcolor: #5f5f5f;",
-			"open_details",
-			"information__",
-			"ff4e79",
-			"ff688d",
-			"ff94e4",
-			"7s",
-			"#ec00ff",
+			".lg-hotspot-button",
+			"animation",
+			".lg-hotspot",
+			".destaque",
+			".active {",
+			".main-pointsInfo {",
+			".active",
+			"255,225,0",
+			"255, 220, 0",
+			"255, 225, 0",
+			"#fc0",
 			"fc0",
-			"40px",
-			"8px",
-			"4px",
-			"8px",
-			"40px",
-			"6s",
-			"180deg",
-			"35px",
-			"3px",
-			"6px",
-			"30px",
-			"evt",
-			"contact_me",
-			".content",
-			"content",
-			"ffe200",
-			"40px",
-			".png.png",
-			"<img src=\"<?php echo get_template_directory_uri(); ?>/img/galeria-img-2.png\" alt=\"\">",
-			"item",
-			"historia_cidade_erechim",
-			"#pastoral_juvenil",
-			"main_blue",
-			"\"max-width\"",
-			"$max: \"max-width\"",
-			"$max",
-			"max-width: 400px;",
-			"alerta_ejm",
-			"#ejm",
-			"_theme.scss",
-			"scssFiles",
-			"main-header__scroll-down",
-			"Searching",
-			"main-header__scroll-down",
-			"cssDest",
-			"'node_modules",
-			"dist",
-			"paths.js",
-			"theme.min.js"
+			"21",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"Área de convivência",
+			"Área de Convivência",
+			"Área de convivência",
+			"Área de Convivência",
+			"Refeitório",
+			"Pátio Coberto",
+			"Entrada de Alunos",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			".active ",
+			".main-pointsInfo ",
+			"Área de convivência",
+			"point-11",
+			"point-10",
+			"10",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"13",
+			"21",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"19",
+			"17",
+			"16",
+			"13",
+			"Área de convivência",
+			"Trilha Ecológica",
+			"Futebol Americano",
+			"Quadras Fundamental 2",
+			"Hip-Hop",
+			"Biblioteca",
+			"Laboratório de Ciências",
+			"Pscina",
+			"Quadras Esportivas",
+			"Acesso Fundamental 2",
+			"Acesso Infantil e Fundamental 1",
+			"pointsInfo",
+			".active",
+			"active",
+			"desta",
+			"active",
+			"class=\"point",
+			".lg-hotspot-button ",
+			"pulseYellow",
+			"destaque",
+			"Convivência",
+			"29",
+			"28",
+			"27",
+			"26",
+			"25",
+			"24",
+			"Convivência",
+			"28",
+			"27",
+			"26",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"36",
+			"Espaço de Convivência",
+			"destaque",
+			"11",
+			"10",
+			"9",
+			"7",
+			"6"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -496,7 +512,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -505,7 +521,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10366,
+						"buffer_size": 12461,
 						"regions":
 						{
 							"col_222222FF":
@@ -553,8 +569,8 @@
 						"selection":
 						[
 							[
-								6209,
-								6209
+								1767,
+								1767
 							]
 						],
 						"settings":
@@ -564,56 +580,52 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1990.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "index.js",
+					"file": "js/index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1242,
+						"buffer_size": 1249,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1075,
-								1075
+								175,
+								175
+							],
+							[
+								276,
+								276
 							]
 						],
 						"settings":
 						{
-							"auto_name": "index.js",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "index.css",
+					"file": "css/index.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14792,
+						"buffer_size": 12910,
 						"regions":
 						{
 							"col_00000026":
@@ -622,12 +634,8 @@
 								"regions":
 								[
 									[
-										1396,
-										1414
-									],
-									[
-										1441,
-										1459
+										2847,
+										2865
 									]
 								],
 								"scope": "col_00000026"
@@ -639,12 +647,8 @@
 								"regions":
 								[
 									[
-										1363,
-										1363
-									],
-									[
-										1416,
-										1416
+										2822,
+										2822
 									]
 								],
 								"scope": "col_gutter"
@@ -655,28 +659,16 @@
 								"regions":
 								[
 									[
-										929,
-										946
+										2437,
+										2454
 									],
 									[
-										973,
-										990
+										3077,
+										3094
 									],
 									[
-										1715,
-										1732
-									],
-									[
-										1758,
-										1775
-									],
-									[
-										5882,
-										5899
-									],
-									[
-										5927,
-										5944
+										6059,
+										6076
 									]
 								],
 								"scope": "col_00000033"
@@ -688,28 +680,16 @@
 								"regions":
 								[
 									[
-										896,
-										896
+										2412,
+										2412
 									],
 									[
-										948,
-										948
+										3053,
+										3053
 									],
 									[
-										1683,
-										1683
-									],
-									[
-										1734,
-										1734
-									],
-									[
-										5848,
-										5848
-									],
-									[
-										5901,
-										5901
+										6035,
+										6035
 									]
 								],
 								"scope": "col_gutter"
@@ -720,8 +700,8 @@
 								"regions":
 								[
 									[
-										2927,
-										2945
+										1724,
+										1742
 									]
 								],
 								"scope": "col_0000004C"
@@ -733,8 +713,8 @@
 								"regions":
 								[
 									[
-										2913,
-										2913
+										1690,
+										1690
 									]
 								],
 								"scope": "col_gutter"
@@ -745,12 +725,20 @@
 								"regions":
 								[
 									[
-										7843,
-										7861
+										4288,
+										4306
 									],
 									[
-										8123,
-										8141
+										4733,
+										4751
+									],
+									[
+										7334,
+										7349
+									],
+									[
+										7488,
+										7506
 									]
 								],
 								"scope": "col_0000007F"
@@ -762,37 +750,20 @@
 								"regions":
 								[
 									[
-										7827,
-										7827
+										4272,
+										4272
 									],
 									[
-										8107,
-										8107
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_000000B2":
-							{
-								"flags": 16,
-								"regions":
-								[
+										4719,
+										4719
+									],
 									[
-										5106,
-										5123
-									]
-								],
-								"scope": "col_000000B2"
-							},
-							"col_000000B2_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_000000B2_circle.png",
-								"regions":
-								[
+										7280,
+										7280
+									],
 									[
-										5090,
-										5090
+										7474,
+										7474
 									]
 								],
 								"scope": "col_gutter"
@@ -803,12 +774,20 @@
 								"regions":
 								[
 									[
-										9433,
-										9440
+										219,
+										223
 									],
 									[
-										10735,
-										10742
+										7268,
+										7278
+									],
+									[
+										7316,
+										7329
+									],
+									[
+										9128,
+										9135
 									]
 								],
 								"scope": "col_000000FF"
@@ -820,12 +799,317 @@
 								"regions":
 								[
 									[
-										9422,
-										9422
+										181,
+										181
 									],
 									[
-										10724,
-										10724
+										7254,
+										7254
+									],
+									[
+										7280,
+										7280
+									],
+									[
+										9119,
+										9119
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_006137FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										225,
+										232
+									]
+								],
+								"scope": "col_006137FF"
+							},
+							"col_006137FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_006137FF_circle.png",
+								"regions":
+								[
+									[
+										181,
+										181
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00AC65FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										713,
+										720
+									],
+									[
+										884,
+										891
+									],
+									[
+										962,
+										969
+									]
+								],
+								"scope": "col_00AC65FF"
+							},
+							"col_00AC65FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00AC65FF_circle.png",
+								"regions":
+								[
+									[
+										691,
+										691
+									],
+									[
+										853,
+										853
+									],
+									[
+										921,
+										921
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00B53CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4346,
+										4361
+									]
+								],
+								"scope": "col_00B53CFF"
+							},
+							"col_00B53CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00B53CFF_circle.png",
+								"regions":
+								[
+									[
+										4325,
+										4325
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00BF40E5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4341,
+										4367
+									]
+								],
+								"scope": "col_00BF40E5"
+							},
+							"col_00BF40E5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00BF40E5_circle.png",
+								"regions":
+								[
+									[
+										4325,
+										4325
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00BF40FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4107,
+										4107
+									]
+								],
+								"scope": "col_00BF40FF"
+							},
+							"col_00BF40FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00BF40FF_circle.png",
+								"regions":
+								[
+									[
+										4080,
+										4080
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00F05199":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11850,
+										11867
+									]
+								],
+								"scope": "col_00F05199"
+							},
+							"col_00F05199_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00F05199_circle.png",
+								"regions":
+								[
+									[
+										11826,
+										11826
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00F051E5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										9420,
+										9437
+									]
+								],
+								"scope": "col_00F051E5"
+							},
+							"col_00F051E5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00F051E5_circle.png",
+								"regions":
+								[
+									[
+										9395,
+										9395
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00F051FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1200,
+										1216
+									],
+									[
+										1354,
+										1370
+									],
+									[
+										2016,
+										2032
+									],
+									[
+										4457,
+										4464
+									],
+									[
+										9501,
+										9508
+									],
+									[
+										9530,
+										9537
+									],
+									[
+										9834,
+										9841
+									],
+									[
+										10078,
+										10085
+									]
+								],
+								"scope": "col_00F051FF"
+							},
+							"col_00F051FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00F051FF_circle.png",
+								"regions":
+								[
+									[
+										1174,
+										1174
+									],
+									[
+										1343,
+										1343
+									],
+									[
+										2005,
+										2005
+									],
+									[
+										4440,
+										4440
+									],
+									[
+										9481,
+										9481
+									],
+									[
+										9510,
+										9510
+									],
+									[
+										9823,
+										9823
+									],
+									[
+										10069,
+										10069
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0ED14FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4100,
+										4107
+									]
+								],
+								"scope": "col_0ED14FFF"
+							},
+							"col_0ED14FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0ED14FFF_circle.png",
+								"regions":
+								[
+									[
+										4080,
+										4080
 									]
 								],
 								"scope": "col_gutter"
@@ -836,8 +1120,8 @@
 								"regions":
 								[
 									[
-										104,
-										111
+										105,
+										112
 									]
 								],
 								"scope": "col_11161BFF"
@@ -849,8 +1133,33 @@
 								"regions":
 								[
 									[
-										90,
-										90
+										91,
+										91
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1BE85FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4144,
+										4151
+									]
+								],
+								"scope": "col_1BE85FFF"
+							},
+							"col_1BE85FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1BE85FFF_circle.png",
+								"regions":
+								[
+									[
+										4122,
+										4122
 									]
 								],
 								"scope": "col_gutter"
@@ -861,12 +1170,12 @@
 								"regions":
 								[
 									[
-										4391,
-										4395
+										5026,
+										5030
 									],
 									[
-										11002,
-										11006
+										9336,
+										9340
 									]
 								],
 								"scope": "col_222222FF"
@@ -878,12 +1187,12 @@
 								"regions":
 								[
 									[
-										4382,
-										4382
+										5017,
+										5017
 									],
 									[
-										10991,
-										10991
+										9327,
+										9327
 									]
 								],
 								"scope": "col_gutter"
@@ -894,8 +1203,8 @@
 								"regions":
 								[
 									[
-										7230,
-										7234
+										6728,
+										6732
 									]
 								],
 								"scope": "col_333333FF"
@@ -907,8 +1216,8 @@
 								"regions":
 								[
 									[
-										7219,
-										7219
+										6719,
+										6719
 									]
 								],
 								"scope": "col_gutter"
@@ -919,8 +1228,8 @@
 								"regions":
 								[
 									[
-										6964,
-										6968
+										6524,
+										6528
 									]
 								],
 								"scope": "col_555555FF"
@@ -932,65 +1241,8 @@
 								"regions":
 								[
 									[
-										6942,
-										6942
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_FFCC00FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										4516,
-										4520
-									],
-									[
-										4542,
-										4546
-									],
-									[
-										11139,
-										11143
-									],
-									[
-										11167,
-										11171
-									],
-									[
-										11543,
-										11547
-									]
-								],
-								"scope": "col_FFCC00FF"
-							},
-							"col_FFCC00FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FFCC00FF_circle.png",
-								"regions":
-								[
-									[
-										4496,
-										4496
-									],
-									[
-										4522,
-										4522
-									],
-									[
-										11117,
-										11117
-									],
-									[
-										11145,
-										11145
-									],
-									[
-										11534,
-										11534
+										6504,
+										6504
 									]
 								],
 								"scope": "col_gutter"
@@ -1001,68 +1253,44 @@
 								"regions":
 								[
 									[
-										12806,
-										12827
+										11699,
+										11720
 									],
 									[
-										12858,
-										12879
+										11758,
+										11779
 									],
 									[
-										12931,
-										12952
+										11907,
+										11928
 									],
 									[
-										12980,
-										13001
+										11966,
+										11987
 									],
 									[
-										13205,
-										13226
+										12108,
+										12129
 									],
 									[
-										13257,
-										13278
+										12167,
+										12188
 									],
 									[
-										13330,
-										13351
+										12319,
+										12340
 									],
 									[
-										13379,
-										13400
+										12378,
+										12399
 									],
 									[
-										13614,
-										13635
+										12522,
+										12543
 									],
 									[
-										13665,
-										13686
-									],
-									[
-										13738,
-										13759
-									],
-									[
-										13787,
-										13808
-									],
-									[
-										14014,
-										14035
-									],
-									[
-										14065,
-										14086
-									],
-									[
-										14138,
-										14159
-									],
-									[
-										14187,
-										14208
+										12581,
+										12602
 									]
 								],
 								"scope": "col_FFF51101"
@@ -1074,68 +1302,44 @@
 								"regions":
 								[
 									[
-										12769,
-										12769
+										11672,
+										11672
 									],
 									[
-										12829,
-										12829
+										11734,
+										11734
 									],
 									[
-										12897,
-										12897
+										11880,
+										11880
 									],
 									[
-										12954,
-										12954
+										11942,
+										11942
 									],
 									[
-										13168,
-										13168
+										12081,
+										12081
 									],
 									[
-										13228,
-										13228
+										12143,
+										12143
 									],
 									[
-										13296,
-										13296
+										12293,
+										12293
 									],
 									[
-										13353,
-										13353
+										12354,
+										12354
 									],
 									[
-										13578,
-										13578
+										12496,
+										12496
 									],
 									[
-										13637,
-										13637
-									],
-									[
-										13704,
-										13704
-									],
-									[
-										13761,
-										13761
-									],
-									[
-										13978,
-										13978
-									],
-									[
-										14037,
-										14037
-									],
-									[
-										14104,
-										14104
-									],
-									[
-										14161,
-										14161
+										12557,
+										12557
 									]
 								],
 								"scope": "col_gutter"
@@ -1146,24 +1350,16 @@
 								"regions":
 								[
 									[
-										3858,
-										3881
+										3808,
+										3831
 									],
 									[
-										13487,
-										13510
+										12257,
+										12280
 									],
 									[
-										13538,
-										13561
-									],
-									[
-										13887,
-										13910
-									],
-									[
-										13938,
-										13961
+										12460,
+										12483
 									]
 								],
 								"scope": "col_FFFFFF7F"
@@ -1175,24 +1371,16 @@
 								"regions":
 								[
 									[
-										3838,
-										3838
+										3788,
+										3788
 									],
 									[
-										13453,
-										13453
+										12233,
+										12233
 									],
 									[
-										13512,
-										13512
-									],
-									[
-										13853,
-										13853
-									],
-									[
-										13912,
-										13912
+										12436,
+										12436
 									]
 								],
 								"scope": "col_gutter"
@@ -1203,20 +1391,12 @@
 								"regions":
 								[
 									[
-										12678,
-										12701
+										11636,
+										11659
 									],
 									[
-										12729,
-										12752
-									],
-									[
-										13077,
-										13100
-									],
-									[
-										13128,
-										13151
+										12045,
+										12068
 									]
 								],
 								"scope": "col_FFFFFF99"
@@ -1228,20 +1408,12 @@
 								"regions":
 								[
 									[
-										12644,
-										12644
+										11612,
+										11612
 									],
 									[
-										12703,
-										12703
-									],
-									[
-										13043,
-										13043
-									],
-									[
-										13102,
-										13102
+										12021,
+										12021
 									]
 								],
 								"scope": "col_gutter"
@@ -1252,12 +1424,8 @@
 								"regions":
 								[
 									[
-										4357,
-										4380
-									],
-									[
-										10966,
-										10989
+										9302,
+										9325
 									]
 								],
 								"scope": "col_FFFFFFE5"
@@ -1269,12 +1437,8 @@
 								"regions":
 								[
 									[
-										4343,
-										4343
-									],
-									[
-										10950,
-										10950
+										9288,
+										9288
 									]
 								],
 								"scope": "col_gutter"
@@ -1285,52 +1449,72 @@
 								"regions":
 								[
 									[
-										1677,
-										1681
+										733,
+										737
 									],
 									[
-										2760,
-										2764
+										1561,
+										1565
 									],
 									[
-										5136,
-										5140
+										2064,
+										2068
 									],
 									[
-										5313,
-										5317
+										3047,
+										3051
 									],
 									[
-										5842,
-										5846
+										4380,
+										4384
 									],
 									[
-										7025,
-										7029
+										4494,
+										4498
 									],
 									[
-										9197,
-										9204
+										4662,
+										4666
 									],
 									[
-										9458,
-										9463
+										4993,
+										5015
 									],
 									[
-										10489,
-										10496
+										5556,
+										5560
 									],
 									[
-										10760,
-										10765
+										6029,
+										6033
 									],
 									[
-										11256,
-										11260
+										6579,
+										6583
 									],
 									[
-										11400,
-										11404
+										8251,
+										8258
+									],
+									[
+										8862,
+										8869
+									],
+									[
+										9151,
+										9156
+									],
+									[
+										9565,
+										9569
+									],
+									[
+										9645,
+										9649
+									],
+									[
+										9918,
+										9922
 									]
 								],
 								"scope": "col_FFFFFFFF"
@@ -1342,52 +1526,72 @@
 								"regions":
 								[
 									[
-										1657,
-										1657
+										722,
+										722
 									],
 									[
-										2751,
-										2751
+										1541,
+										1541
 									],
 									[
-										5125,
-										5125
+										2051,
+										2051
 									],
 									[
-										5289,
-										5289
+										3027,
+										3027
 									],
 									[
-										5820,
-										5820
+										4369,
+										4369
 									],
 									[
-										7014,
-										7014
+										4483,
+										4483
 									],
 									[
-										9186,
-										9186
+										4653,
+										4653
 									],
 									[
-										9442,
-										9442
+										4979,
+										4979
 									],
 									[
-										10478,
-										10478
+										5534,
+										5534
 									],
 									[
-										10744,
-										10744
+										6009,
+										6009
 									],
 									[
-										11247,
-										11247
+										6570,
+										6570
 									],
 									[
-										11391,
-										11391
+										8242,
+										8242
+									],
+									[
+										8853,
+										8853
+									],
+									[
+										9137,
+										9137
+									],
+									[
+										9556,
+										9556
+									],
+									[
+										9636,
+										9636
+									],
+									[
+										9909,
+										9909
 									]
 								],
 								"scope": "col_gutter"
@@ -1396,38 +1600,109 @@
 						"selection":
 						[
 							[
-								8336,
-								8336
+								9212,
+								9212
 							]
 						],
 						"settings":
 						{
-							"auto_name": "index.css",
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4940.0,
+						"translation.y": 11666.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
+					"file": "css/index.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1281,
+						"buffer_size": 12910,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1281,
-								0
+								1865,
+								1865
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9210,
+						"regions":
+						{
+							"col_222222FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										374,
+										378
+									],
+									[
+										445,
+										449
+									],
+									[
+										508,
+										512
+									]
+								],
+								"scope": "col_222222FF"
+							},
+							"col_222222FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_222222FF_circle.png",
+								"regions":
+								[
+									[
+										336,
+										336
+									],
+									[
+										381,
+										381
+									],
+									[
+										452,
+										452
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								883,
+								883
 							]
 						],
 						"settings":
@@ -1440,7 +1715,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1321,
+								1321
+							]
+						],
+						"settings":
+						{
+							"auto_name": "gulpfile.js",
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Gulpfile).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1463,18 +1767,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1542,14 +1839,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 275.0,
 	"status_bar_visible": true,
 	"template_settings":
