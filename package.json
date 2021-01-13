@@ -15,7 +15,7 @@
     "gulp-watch": "^5.0.0",
     "imagesloaded": "^4.1.4",
     "jquery-mask-plugin": "^1.14.15",
-    "jquery-validation": "^1.19.0",
+    "jquery-validation": "^1.19.3",
     "lg-autoplay": "^1.0.4",
     "lg-fullscreen": "^1.0.1",
     "lg-hash": "^1.0.4",
